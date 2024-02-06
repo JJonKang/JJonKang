@@ -1,16 +1,12 @@
-### Hi there 👋
+### HELLO!
+Currently, I just want to learn more on developing programs. I am not fully set on a specific part of computer science, but am exploring what I can do. At University of Illinois Chicago, there's a lot of classes on CS I can take, and as long as I don't have to write, it's all good to me.
 
-<!--
-**JJonKang/JJonKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I have done a lot of "HELLO WORLD" in various languages, but I think the best language I can use is C++.
+  - Other languages I learned include C, Java, and R
+  - I'm okay with debugging (gdb)
+  - Can use git
+- I can use an Arduino and Raspberry P, but am not seeking to pursue electrical engineering.
+- I do have some experience with Blender and CAD programs, so I can create 3D Models for art or 3D printing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previous projects that I have done include working with a group to create an 8-bit game, and an arcade machine (NOT SEEKING TO BE A VIDEO GAME DEVELOPER).
+I hope that I can find a lot more things to discover in UIC until my graduation at Fall 2025, or anything I find out by myself :)
