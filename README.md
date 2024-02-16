@@ -5,7 +5,7 @@ Currently, I just want to learn more on developing programs. I am currently inte
   - Other languages I learned include C, Java, and R.
   - I'm okay with debugging (gdb).
   - Can use git.
-- I can use an Arduino and Raspberry Pi, but am more interested in software development.
+- I can use an Arduino and Raspberry Pi, but am more interested in software development rather than electrical.
 - I do have some experience with Blender and CAD programs, so I can create 3D Models for art or for 3D printing.
 
 Previous projects that I have done include working with a group to create an 8-bit game, and an arcade machine. Surprisingly, I am not pursuing to become a game developer.
