@@ -1,5 +1,5 @@
 ### Hello!
-Currently, I just want to learn more on developing programs. I am currently interested in learning various topic on computer science while developing my knowledge on 3D modeling. At University of Illinois Chicago, there's a lot of classes on CS I can take, and as long as I don't have to write an essay, it's all good to me.
+Currently, I just want to learn more on developing programs. I am currently interested in learning various topics on computer science while developing my knowledge on 3D modeling. At University of Illinois Chicago, there's a lot of classes on CS I can take, and as long as I don't have to write an essay, it's all good to me.
 
 - I have done a lot of "HELLO WORLD" in various languages, but I think the best language I can use is C++.
   - Other languages I learned include C, Java, and R.
