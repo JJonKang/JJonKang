@@ -10,6 +10,3 @@ Currently, I just want to learn more on developing programs. I am currently inte
 
 Previous projects that I have done include working with a group to create an 8-bit game, and an arcade machine. Surprisingly, I am not pursuing to become a game developer.
 I hope that I can find a lot more things to discover in UIC until my graduation at Fall 2025, or anything I find out by myself. :)
-
-LinkedIn:
-https://www.linkedin.com/in/jonathan-kang-/
