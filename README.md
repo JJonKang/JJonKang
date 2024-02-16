@@ -1,4 +1,4 @@
-### HELLO!
+### Hello!
 Currently, I just want to learn more on developing programs. I am not fully set on a specific part of computer science, but am exploring what I can do. At University of Illinois Chicago, there's a lot of classes on CS I can take, and as long as I don't have to write an essay, it's all good to me.
 
 - I have done a lot of "HELLO WORLD" in various languages, but I think the best language I can use is C++.
