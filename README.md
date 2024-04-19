@@ -5,7 +5,7 @@ Currently, I just want to learn more on developing programs. I am currently inte
   - Other languages I learned include C, Java, and R.
   - I'm okay with debugging (gdb).
   - Can use git.
-  - Can read React and HTML, but can write CSS. Javascript is readable.
+  - Can read React and HTML, and can write CSS. Javascript is readable.
 - I can use an Arduino and Raspberry Pi, but am more interested in software development rather than electrical.
 - I do have some experience with Blender and CAD programs, so I can create 3D Models for art or for 3D printing.
 
