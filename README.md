@@ -1,11 +1,11 @@
 ### Hello!
-I am currently interested in learning various topics in computer science while developing my knowledge of 3D modeling. At the University of Illinois Chicago, there are a lot of classes on CS I can take, and as long as I don't have to write an essay, it's all good to me.
+I am currently interested in learning various topics in computer science while developing my knowledge of 3D modeling. At the University of Illinois Chicago, there are many CS classes I can take, and as long as I don't have to write an essay, it's all good for me.
 
-- I have done a lot of "HELLO WORLD" in various languages, but I think the best language I can use is C++.
-  - Other languages I learned include C, Java, Python, and R.
-  - I'm okay with debugging (gdb).
-  - Can use git.
-  - Can read React and HTML and can write CSS. Javascript is readable.
+- My best language would be Python.
+  - However, other languages I learned include C++, C, Java, Python, and R.
+  - For frontend development, I can use React, as well as CSS, Javascript, and HTML.
+  - I can debug C and C++ with gdb.
+  - I can also use Docker and git and am knowledgeable about the cloud (AWS).
 - I can use an Arduino and Raspberry Pi, but I am more interested in software development rather than electrical.
 - I do have some experience with Blender and CAD programs, so I can create 3D models for art or 3D printing.
 
