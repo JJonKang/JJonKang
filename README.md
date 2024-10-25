@@ -3,9 +3,9 @@ I am currently interested in learning various topics in computer science while d
 
 - My best language would be Python.
   - However, other languages I learned include C++, C, Java, Python, and R.
-  - For frontend development, I can use React, as well as CSS, Javascript, and HTML.
+  - For frontend development, I can use React.js, which uses CSS, Javascript, and HTML.
   - I can debug C and C++ with gdb.
-  - I can also use Docker and git and am knowledgeable about the cloud (AWS).
+  - I can also use Docker and git and am knowledgeable about AWS.
 - I can use an Arduino and Raspberry Pi, but I am more interested in software development rather than electrical.
 - I do have some experience with Blender and CAD programs, so I can create 3D models for art or 3D printing.
 
